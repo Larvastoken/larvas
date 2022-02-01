@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const StyledSquadHeaderContainer = styled(Flex)`
   position: relative;
-  background: linear-gradient(180deg, #8051d6 0%, #492286 100%);
+  background: linear-gradient(180deg, #13111A 0%, #13111A 100%);
 `
 
 export const StyledSquadTitle = styled(Text)`
@@ -15,7 +15,7 @@ export const StyledSquadTitle = styled(Text)`
 `
 
 export const StyledSquadEventBorder = styled(Box)`
-  background: linear-gradient(180deg, #53dee9 0%, #7645d9 100%);
+  background: linear-gradient(180deg, #13111A 0%, #13111A 100%);
   border-radius: 32px;
 `
 
