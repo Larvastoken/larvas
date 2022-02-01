@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const StyledSquadContainer = styled(Box)`
   min-height: 100vh;
-  background-color: #13111A;
+  background-color: #e6feff;
 `
 
 export const LandingBodyWrapper = styled(Flex)`

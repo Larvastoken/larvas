@@ -6,7 +6,7 @@ export const StyledArtistSectionContainer = styled(Flex)<{ $isDark: boolean }>`
   background: ${({ $isDark }) =>
     $isDark
       ? `#13111A;`
-      : `linear-gradient(90deg, #13111A 0%, #13111A 100%);`};
+      : `linear-gradient(90deg, #faf9fa 0%, #d7caec 100%);`};
 `
 
 export const StyledArtistBioContainer = styled(Flex)`
